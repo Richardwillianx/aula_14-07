@@ -68,13 +68,6 @@ export default function Atividades() {
         })}
       </ul>
       {lista.length > 5 ? "Você ganhou frete grátis!" : null}
-      {/*  <ContainerFlex>
-        <TabelaDados />
-      </ContainerFlex> */}
     </>
   );
 }
-
-// Criar um formulario com: nome, email e telefone
-// Criar um botão que quando clicado, adiciona um novo item a lista
-// abaixo do formulário, lista do array
