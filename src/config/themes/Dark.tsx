@@ -1,11 +1,11 @@
 export type ThemeType = {
-  bg: string;
-  color: string;
-};
+    bg: string;
+    color: string;
+}
 
 const theme = {
-  bg: "#ccc",
-  color: "blue",
+    bg: '#ccc',
+    color: 'blue'
 };
 
 export default theme;
